@@ -1,0 +1,26 @@
+Aug 02, 2018 4:47:15 PM com.hajj.facerecognition.javafaces.FaceRecognition checkCache
+INFO: cache file not found
+Aug 02, 2018 4:47:17 PM com.hajj.facerecognition.javafaces.FaceRecognition createEigenFaceImages
+INFO: creating eigenfaces
+Aug 02, 2018 4:47:17 PM com.hajj.facerecognition.javafaces.FaceRecognition createEigenFaceImages
+INFO: created eigenfaces.
+Aug 02, 2018 4:47:18 PM com.hajj.facerecognition.javafaces.FaceRecognition writeCache
+INFO: wrote cache
+Aug 02, 2018 4:47:18 PM com.hajj.facerecognition.javafaces.FaceRecognition reconstructFaces
+INFO: reconstruction over
+Aug 02, 2018 4:47:21 PM com.hajj.facerecognition.javafaces.FaceRecognition reconstructFaces
+INFO: reconstruction over
+Aug 02, 2018 4:47:22 PM com.hajj.facerecognition.javafaces.FaceRecognition reconstructFaces
+INFO: reconstruction over
+Aug 02, 2018 4:47:23 PM com.hajj.facerecognition.javafaces.FaceRecognition reconstructFaces
+INFO: reconstruction over
+Aug 02, 2018 4:47:25 PM com.hajj.facerecognition.javafaces.FaceRecognition reconstructFaces
+INFO: reconstruction over
+Aug 02, 2018 4:47:26 PM com.hajj.facerecognition.javafaces.FaceRecognition reconstructFaces
+INFO: reconstruction over
+Aug 02, 2018 4:47:27 PM com.hajj.facerecognition.javafaces.FaceRecognition reconstructFaces
+INFO: reconstruction over
+Aug 02, 2018 4:47:29 PM com.hajj.facerecognition.javafaces.FaceRecognition reconstructFaces
+INFO: reconstruction over
+Aug 02, 2018 4:47:33 PM com.hajj.facerecognition.javafaces.FaceRecognition reconstructFaces
+INFO: reconstruction over
